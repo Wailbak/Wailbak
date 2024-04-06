@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFA500&multiline=true&random=false&width=484&height=168&lines=Welcome+to+my+GitHub+Space;My+name+is+Wail+Bakraoui;A+Junior+Data+Analyst)](https://git.io/typing-svg)
 
-![banner](banner.png)
+![banner](banner.gif)
 
 ## 👋 Hey there! I'm Wail Bakraoui
 
