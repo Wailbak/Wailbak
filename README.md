@@ -4,14 +4,14 @@
 
 ## 👋 Hey there! I'm Wail Bakraoui
 
-* 📊 I'm a Junior Data Analyst with a passion for translating complex data into actionable insights. With a robust foundation in analytics, I've honed my skills in **MS Excel, Python, SQL, Pandas,** and **visualization tools** such as **Tableau, Matplotlib, Seaborn,** and **Power BI.**
+* 📊 I'm a Junior Data Analyst with a passion for translating complex data into actionable insights. With a robust foundation in analytics, I've sharpened my skills in **MS Excel, Python, SQL, Pandas,** and **visualization tools** such as **Tableau, Matplotlib, Seaborn,** and **Power BI.**
 
-* 🎓 My academic journey includes a Data Analyst Degree from Ironhack, Amsterdam, and coursework in architecture at O.D.A.B.A, Odessa, demonstrating my versatile skill set and adaptability.
+* 🎓 My academic journey includes a **Data Analyst** Degree from Ironhack in Amsterdam, and coursework in architecture at O.D.A.B.A, Odessa, demonstrating my versatile skill set and adaptability.
 
 * 🌍 Multilingual with professional-level proficiency in **English, French,** and **Arabic,** plus basic conversational **Dutch**, I thrive in diverse environments and bring a global perspective to my work.
 
-* 🚀 I'm motivated, analytical, and always eager to tackle new challenges. My goal is to contribute meaningfully to a forward-thinking company, leveraging my analytical thinking, problem-solving abilities, and communication skills to drive success.
-
+* 🚀 I'm motivated, analytical, and always eager to tackle new challenges. My aspiration? It's to immerse myself in the dynamic environment of an innovative company, leveraging my data analytics skills, ability to overcome challenges, and exceptional communication to illuminate our journey toward success.
+  
 * 🔍 Check out my projects on [GitHub](https://github.com/Wailbak?tab=repositories) for a peek into my work and the value I bring to the table.
 
 * Let's connect and explore how we can create impact together!
