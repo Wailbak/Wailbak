@@ -12,7 +12,7 @@
 
 * 🚀 I'm motivated, analytical, and always eager to tackle new challenges. My aspiration? It's to immerse myself in the dynamic environment of an innovative company, leveraging my data analytics skills, ability to overcome challenges, and exceptional communication to illuminate our journey toward success.
   
-* 🔍 Check out my projects on [My Repository](https://github.com/Wailbak?tab=repositories) for a peek into my work and the value I bring to the table.
+* 🔍 Check out my projects for a peek into my work and the value I bring to the table.
 
 * 🔗 Let's connect and explore how we can create impact together! [My LinkedIn](https://www.linkedin.com/in/WailBak)
 
