@@ -30,9 +30,6 @@
 ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0653B6?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0D76A8?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 
 
 
