@@ -4,9 +4,9 @@
 
 ## 👋 Hey there! I'm Wail Bakraoui
 
-* 📊 I'm a motivated Data Analyst with a passion for translating complex data into actionable insights. With a robust foundation in IT, I've sharpened my skills in **MS Excel, Python, SQL, Pandas,** and **visualization tools** such as **Tableau, Matplotlib, Seaborn,** and **Power BI.**
+* 📊 I'm a motivated Data Analyst with a passion for translating complex data into actionable insights. With a robust foundation in IT & Artificial Intelligence **(AI)**, I've sharpened my skills in **Python, MS Excel, , SQL, Pandas,** and **visualization tools** such as **Tableau, Matplotlib, Seaborn,** and **Power BI.**
 
-* 🎓 My academic journey includes a **Data Analyst** Degree from Ironhack in Amsterdam, and a **Bachelor** dregree in architecture at O.D.A.B.A, Odessa, demonstrating my versatile skill set and adaptability.
+* 🎓 My academic journey includes a **Data Analyst** Degree from Ironhack in **Amsterdam**, and a **Bachelor** dregree in rchitecture at O.D.A.B.A, Odessa, demonstrating my versatile skill set and adaptability.
 
 * 🌍 Multilingual with professional-level proficiency in **English, French,** and **Arabic,** plus basic conversational **Dutch**, I thrive in diverse environments and bring a global perspective to my work.
 
