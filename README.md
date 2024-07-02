@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=41&pause=1000&color=FF712B&center=true&multiline=true&random=false&width=545&height=199&lines=Welcome+to+my+Portfolio;My+Name+is+Wail+Bakraoui;A+Certified+IT+Data+Analyst+%26+AI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=41&duration=3000&pause=250&color=FF712B&multiline=true&repeat=false&random=false&width=545&height=199&lines=Welcome+to+my+Portfolio;My+Name+is+Wail+Bakraoui;A+Certified+IT+%26+AI+Data+Analyst)](https://git.io/typing-svg)
 
 ![Banner](bannner.gif)
 
