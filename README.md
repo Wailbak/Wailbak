@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=41&duration=3000&pause=250&color=FFFFFF&multiline=true&random=false&width=545&height=199&lines=Welcome+to+my+Portfolio;My+Name+is+Wail+Bakraoui;A+Certified+Data+Analyst)](https://git.io/typing-svg)
 
 
-![Banner](bannner.png)
+![Banner](bannner)
 
 ## 👋 Hey there! I'm Wail Bakraoui
 
