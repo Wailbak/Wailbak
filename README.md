@@ -7,7 +7,7 @@
 
 * 📊 I am a dedicated Data Analyst with a passion for translating complex data into actionable insights. With a strong background in **data analysis**, I have sharpened my skills in **Python**, **MS Excel**, **SQL**, **Pandas**, and visualization tools such as **Tableau**, **Matplotlib**, **Seaborn**, and **Power BI**. I am dedicated to building **data-driven dashboards** and performing **in-depth analyses** that support **strategic decision-making**.
 
-* 🎓 My academic journey includes a **Data Analyst Certificate** from Ironhack School in **Amsterdam**, and a **Bachelor** dregree in architecture at O.D.A.B.A, **Odessa**, demonstrating my versatile skill set and adaptability.
+🎓 My academic journey includes a **Data Analytics Professional Certificate** from Ironhack School in Amsterdam, a **Bachelor's degree** in architecture from O.D.A.B.A, Odessa, a **Microsoft Power BI for Business Intelligence & Data Science Professional Certificate** from Data Science Academy, and a **Project Management Professional Certificate from IBM**, demonstrating my versatile skill set and adaptability
 
 * 🌍 Multilingual with professional-level proficiency in **English, French,** and **Arabic,** plus basic conversational **Dutch**, I thrive in diverse environments and bring a global perspective to my work.
 
